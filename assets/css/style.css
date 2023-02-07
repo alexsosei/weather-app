@@ -6,3 +6,14 @@ height: 100vh;
 margin: 0;
 background: rgb(78, 151, 180);
 }
+
+.card {
+    background: #4d87b4;
+    padding: 2em;
+    border-radius: 30px;
+    width: 100%;
+    max-width: 420px;
+    
+
+
+}
