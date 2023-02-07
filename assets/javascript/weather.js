@@ -142,7 +142,7 @@ function getFiveDayForecast() {
 				myWeather.push(testObj);
             }
 		})
-		//Inject the cards to the screen 
+		//Place the cards to the screen 
 		for (let i = 0; i < myWeather.length; i++) {
 
 			var divElCard = $('<div>');
