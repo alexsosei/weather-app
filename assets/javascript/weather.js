@@ -178,7 +178,7 @@ function getFiveDayForecast() {
 	});
 };
 
-//Allows for the example data to load for Denver
+//Allows for the example data to load for london
 function initLoad() {
 
 	var cityHistStore = JSON.parse(localStorage.getItem('city'));
