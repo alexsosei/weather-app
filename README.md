@@ -27,3 +27,17 @@ The humidity
 
 - When a user clicks on a city in the search history they are again presented with current and future conditions for that city.
 
+## Installations
+
+## Usage
+The deployed app is presented in screenshot 
+
+## License
+The MIT license was adopted in this work.
+
+## Features
+There were no features in this work 
+
+## Tests
+The live server in vscode was used to test weather app interface and interactions occasionally.
+
