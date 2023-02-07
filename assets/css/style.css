@@ -5,6 +5,9 @@ align-items: center;
 height: 100vh;
 margin: 0;
 background: rgb(78, 151, 180);
+font-family: 'Bai Jamjuree', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Rubik Bubbles', cursive;
 }
 
 .card {
@@ -14,7 +17,7 @@ background: rgb(78, 151, 180);
     width: 100%;
     max-width: 420px;
     margin: 1em;
-    
+
 
 
 
