@@ -3,4 +3,6 @@ display: flex;
 justify-content: centre;
 align-items: center;
 height: 100vh;
+margin: 0;
+background: rgb(48, 22, 22);
 }
