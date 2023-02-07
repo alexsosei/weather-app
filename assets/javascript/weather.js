@@ -65,10 +65,11 @@ function getHistory() {
         $.ajax({
             url: getUrlCurrent,
             method: 'GET',
-        }).then(funtion (response){
+        }).then(funtion (response) {
             $('.cardTodayCityName').text(response.name);
             $('.cardTodayDate').text(date);
-            //
+            //Icons
+            $('.icons').attr()
         })
 
     }
