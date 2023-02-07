@@ -18,7 +18,22 @@ font-family: 'Rubik Bubbles', cursive;
     max-width: 420px;
     margin: 1em;
 
+}
 
-
+.search {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    margin: 0.5em;
+    border-radius: 50%;
+    border: none;
+    height: 2em;
+    width: 2.5em;
+    outline: none;
+input.search bar {
+ border: none;   
+}
 
 }
