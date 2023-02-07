@@ -66,8 +66,9 @@ function getHistory() {
             url: getUrlCurrent,
             method: 'GET',
         }).then(funtion (response){
-          $('.cardTodayCityName').text(response.name);
-          $('.cardTodayDate').text(date);  
+            $('.cardTodayCityName').text(response.name);
+            $('.cardTodayDate').text(date);
+            //
         })
 
     }
