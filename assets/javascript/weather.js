@@ -107,19 +107,19 @@ function getHistory() {
         $("#hum5").text("Hum:" + " " + day5hum + "%");
 
         $("#icon1").html(
-          `<img src="http://openweathermap.org/img/wn/${icon1}@2x.png">`
+          `<img src="">`
         );
         $("#icon2").html(
-          `<img src="http://openweathermap.org/img/wn/${icon2}@2x.png">`
+          `<img src=">`
         );
         $("#icon3").html(
-          `<img src="http://openweathermap.org/img/wn/${icon3}@2x.png">`
+          `<img src="">`
         );
         $("#icon4").html(
-          `<img src="http://openweathermap.org/img/wn/${icon4}@2x.png">`
+          `<img src="">`
         );
         $("#icon5").html(
-          `<img src="http://openweathermap.org/img/wn/${icon5}@2x.png">`
+          `<img src="">`
         );
       });
     }
