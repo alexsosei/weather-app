@@ -28,7 +28,7 @@ The humidity
 - When a user clicks on a city in the search history they are again presented with current and future conditions for that city.
 
 ## Installations
-
+The app is deployed using link 
 ## Usage
 The deployed app is presented in screenshot ![login] (https://github.com/alexsosei/weather-app/blob/main/assets/Images/Screenshot%202023-02-09%20at%2014.18.54.png)
 
