@@ -30,7 +30,7 @@ The humidity
 ## Installations
 The app is deployed using link https://alexsosei.github.io/weather-app/  
 ## Usage
-The deployed app is presented in screenshot ![login](
+The deployed app is presented in screenshot ![login](https://github.com/alexsosei/weather-app/blob/main/assets/Images/Screenshot%202023-03-19%20at%2021.13.15.png)
 
 ## License
 The MIT license was adopted in this work.
